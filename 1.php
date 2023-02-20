@@ -3,3 +3,4 @@ echo "SC SUDAH MAMPUS, MAU PESAN YANG BARU? HUBUNGI TELEGRAM ADMIN @lc_dev dan @
 goto close;
 
 close:
+exit
